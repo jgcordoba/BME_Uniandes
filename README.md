@@ -1,2 +1,2 @@
 # BME_Uniandes
-During my undergraduate and graduate studies, I will be using this repository to store my work. I hope someday to help someone as inspiration and guide for their classes. 
+Hey there! I'm planning to use this repository to store all the coursework I did during my undergraduate and graduate studies. I'm hoping that my work can inspire and guide other students in their academic journey. 
